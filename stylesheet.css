@@ -1,3 +1,4 @@
+/* Title */
 .doc-name{
   /*Google Fonts*/
   font-size: 50px;
@@ -22,7 +23,7 @@
 /* Box Around List */
 .list-container{
   background-image: url("https://i.pinimg.com/736x/8f/b0/7d/8fb07d1d8660048cc089a07047e7e77d.jpg");
-  margin: 10px 100px;
+  margin: 10px 50px;
   padding: 10px;
   color: #000;
   text-align: center;
